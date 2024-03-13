@@ -11,6 +11,7 @@ export default function StackRoutes(){
                 name='(Home)'
                 component={Home}
                 options={{
+                    title:'Tela de Inicio',
                     headerShown:false
                 }}
             />
